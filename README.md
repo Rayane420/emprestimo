@@ -1,6 +1,6 @@
-## Emprestimos
+# Emprestimos
 
-#### 💡 Qual o objetivo do projeto?
+### 💡 Qual o objetivo do projeto?
 Implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
 As modalidades de empréstimo que serão analisadas são:
 
@@ -55,7 +55,7 @@ HTTP/1.1 200 Ok
 }
 ```
 Fonte: https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md
-## Requisitos
+### Requisitos
 
 - Conceder o empréstimo pessoal se o salário do cliente for igual ou inferior a R$ 3000.
 - Conceder o empréstimo pessoal se o salário do cliente estiver entre R$ 3000 e R$ 5000, se o cliente tiver menos de 30
